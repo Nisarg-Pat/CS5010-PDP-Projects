@@ -1,0 +1,36 @@
+"C:\Program Files\Java\jdk-11.0.11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=53696:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\patel\Desktop\Sem1\PDP\Projects\Project04\out\production\Project04 CommandLineDriver
+Welcome to the Dungeon Game
+Following dungeon is created for you:
+Rows: 6
+Columns: 8
+IsWrapped: false
+Number of Oyughs: 10
+
+Commands:
+M: Move the player in the dungeon.
+P: Pick an item in the dungeon.
+S: Shoot a crooked arrow.
+D: Description of the player.
+Q: Quit the game.
+
+
+You are in a Cave
+Doors lead to : West
+You find 1 Ruby, 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : S
+
+Chomp, chomp, chomp, you are eaten by an Otyugh!
+You Lose.
+
+Process finished with exit code 0

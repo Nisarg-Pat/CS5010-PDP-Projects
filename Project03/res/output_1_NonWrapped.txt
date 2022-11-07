@@ -1,0 +1,262 @@
+"C:\Program Files\Java\jdk-11.0.11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=55378:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\patel\Desktop\Sem1\PDP\Projects\Project03\out\production\Project03 DungeonDriver 6 8 false 10 50
+Welcome to the Dungeon Game
+Commands: 'move', 'pick', 'quit', 'visitAll', 'shortestPath'
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (P)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (5, 3)
+Treasures collected: {}
+
+Location Description:
+Possible directions: [NORTH]
+Treasures: {DIAMOND=10, RUBY=6}
+
+Enter a command('move', 'pick', 'quit') : move
+Enter a direction ('north','east','south','west') : north
+
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— ( ) —— (P) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (4, 3)
+Treasures collected: {}
+
+Location Description:
+Possible directions: [EAST, SOUTH, WEST]
+Treasures: {RUBY=8}
+
+Enter a command('move', 'pick', 'quit') : pick
+
+Player Description:
+Point: (4, 3)
+Treasures collected: {RUBY=8}
+
+Enter a command('move', 'pick', 'quit') : move west
+Enter a direction ('north','east','south','west') :
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— (P) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (4, 2)
+Treasures collected: {RUBY=8}
+
+Location Description:
+Possible directions: [EAST, SOUTH, WEST]
+Treasures: {RUBY=5, SAPPHIRE=5}
+
+Enter a command('move', 'pick', 'quit') : pick
+
+Player Description:
+Point: (4, 2)
+Treasures collected: {RUBY=13, SAPPHIRE=5}
+
+Enter a command('move', 'pick', 'quit') : move west
+Enter a direction ('north','east','south','west') :
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— (P) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (4, 1)
+Treasures collected: {RUBY=13, SAPPHIRE=5}
+
+Location Description:
+Possible directions: [EAST, SOUTH, WEST]
+Treasures: {}
+
+Enter a command('move', 'pick', 'quit') : move west
+Enter a direction ('north','east','south','west') :
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    (P) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (4, 0)
+Treasures collected: {RUBY=13, SAPPHIRE=5}
+
+Location Description:
+Possible directions: [NORTH, EAST, SOUTH]
+Treasures: {DIAMOND=6, RUBY=2, SAPPHIRE=9}
+
+Enter a command('move', 'pick', 'quit') : pick
+
+Player Description:
+Point: (4, 0)
+Treasures collected: {DIAMOND=6, RUBY=15, SAPPHIRE=14}
+
+Enter a command('move', 'pick', 'quit') : move
+Enter a direction ('north','east','south','west') : north
+
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    (P) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (3, 0)
+Treasures collected: {DIAMOND=6, RUBY=15, SAPPHIRE=14}
+
+Location Description:
+Possible directions: [NORTH, EAST, SOUTH]
+Treasures: {DIAMOND=3, RUBY=9, SAPPHIRE=9}
+
+Enter a command('move', 'pick', 'quit') : pick
+
+Player Description:
+Point: (3, 0)
+Treasures collected: {DIAMOND=9, RUBY=24, SAPPHIRE=23}
+
+Enter a command('move', 'pick', 'quit') : move
+Enter a direction ('north','east','south','west') : north
+
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    (P) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (2, 0)
+Treasures collected: {DIAMOND=9, RUBY=24, SAPPHIRE=23}
+
+Location Description:
+Possible directions: [NORTH, EAST, SOUTH]
+Treasures: {DIAMOND=9, SAPPHIRE=9}
+
+Enter a command('move', 'pick', 'quit') : pick
+
+Player Description:
+Point: (2, 0)
+Treasures collected: {DIAMOND=18, RUBY=24, SAPPHIRE=32}
+
+Enter a command('move', 'pick', 'quit') : move
+Enter a direction ('north','east','south','west') : north
+
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    (P) —— (&)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (1, 0)
+Treasures collected: {DIAMOND=18, RUBY=24, SAPPHIRE=32}
+
+Location Description:
+Possible directions: [NORTH, EAST, SOUTH]
+Treasures: {DIAMOND=9, RUBY=2, SAPPHIRE=8}
+
+Enter a command('move', 'pick', 'quit') : pick
+
+Player Description:
+Point: (1, 0)
+Treasures collected: {DIAMOND=27, RUBY=26, SAPPHIRE=40}
+
+Enter a command('move', 'pick', 'quit') : move east
+Enter a direction ('north','east','south','west') :
+
+    ( )    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )
+     |      |      |      |      |             |
+    ( ) —— (P)    ( ) —— ( ) —— ( )    ( )    ( ) —— ( )
+     |      |      |      |      |      |             |
+    ( ) —— ( ) —— ( )    ( )    ( )    ( ) —— ( ) —— ( )
+     |             |             |      |      |      |
+    ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( ) —— ( ) —— ( )
+     |                                  |             |
+    ( ) —— ( ) —— ( ) —— ( ) —— ( )    ( ) —— ( )    ( )
+     |      |      |      |      |      |             |
+    ( )    ( ) —— ( )    (#)    ( ) —— ( ) —— ( ) —— ( )
+
+
+Player Description:
+Point: (1, 1)
+Treasures collected: {DIAMOND=27, RUBY=26, SAPPHIRE=40}
+
+Location Description:
+Possible directions: [NORTH, SOUTH, WEST]
+Treasures: {}
+
+
+Game Over! Player collected the following treasures:
+{DIAMOND=27, RUBY=26, SAPPHIRE=40}
+
+Process finished with exit code 0

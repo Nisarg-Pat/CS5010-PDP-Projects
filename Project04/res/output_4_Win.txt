@@ -1,0 +1,393 @@
+"C:\Program Files\Java\jdk-11.0.11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=53715:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\patel\Desktop\Sem1\PDP\Projects\Project04\out\production\Project04 CommandLineDriver
+Welcome to the Dungeon Game
+Following dungeon is created for you:
+Rows: 6
+Columns: 8
+IsWrapped: false
+Number of Oyughs: 10
+
+Commands:
+M: Move the player in the dungeon.
+P: Pick an item in the dungeon.
+S: Shoot a crooked arrow.
+D: Description of the player.
+Q: Quit the game.
+
+
+You are in a Cave
+Doors lead to : West
+You find 1 Ruby, 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : D
+
+Player Name is PacMan.
+Player has not collected any treasures.
+Player has 3 Arrows.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : R
+
+You are in a Cave
+Doors lead to : West
+You find 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : West
+You find 4 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : West
+You find 3 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : West
+You find 2 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : West
+You find 1 Sapphire here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : West
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+The howl ended as it was slayed.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 1 Arrow
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Tunnel
+Doors lead to : East, South
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : S
+
+You are in a Cave
+Doors lead to : North, East, West
+You find 6 Rubies here.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : E
+
+You are in a Cave
+Doors lead to : West
+You find 2 Diamonds, 6 Sapphires here.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : D
+
+You are in a Cave
+Doors lead to : West
+You find 1 Diamond, 6 Sapphires here.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : D
+
+You are in a Cave
+Doors lead to : West
+You find 6 Sapphires here.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Cave
+Doors lead to : North, East, West
+You find 6 Rubies here.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Cave
+Doors lead to : East, South, West
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : S
+
+You are in a Cave
+Doors lead to : North, East, South, West
+You find 8 Diamonds, 9 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : S
+
+You are in a Cave
+Doors lead to : North, East, South, West
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 1
+You shoot an arrow into the darkness.
+
+You are in a Cave
+Doors lead to : North, East, South, West
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 2
+You shoot an arrow into the darkness.
+
+You are in a Cave
+Doors lead to : North, East, South, West
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Tunnel
+Doors lead to : East, South
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : S
+
+You are in a Cave
+Doors lead to : North, South, West
+You find 7 Diamonds here.
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+You are out of arrows, explore to find more
+
+You are in a Cave
+Doors lead to : North, South, West
+You find 7 Diamonds here.
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : S
+
+You are in a Tunnel
+Doors lead to : North, West
+You find 3 Arrows
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Tunnel
+Doors lead to : North, West
+You find 2 Arrows
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Tunnel
+Doors lead to : North, West
+You find 1 Arrow
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Tunnel
+Doors lead to : North, West
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : D
+
+Player Name is PacMan.
+Player has collected 2 Diamonds, 1 Ruby, 5 Sapphires.
+Player has 3 Arrows.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 2
+You hear a great howl in the distance.
+The howl ended as it was slayed.
+
+You are in a Tunnel
+Doors lead to : North, West
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 2
+You shoot an arrow into the darkness.
+
+You are in a Tunnel
+Doors lead to : North, West
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Tunnel
+Doors lead to : North, East
+You find 1 Arrow
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Tunnel
+Doors lead to : North, East
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : N
+
+You are in a Cave
+Doors lead to : North, East, South, West
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 2 Rubies, 4 Sapphires here.
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : R
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 1 Ruby, 4 Sapphires here.
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : R
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 4 Sapphires here.
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 3 Sapphires here.
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 2 Sapphires here.
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 1 Sapphire here.
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : S
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Cave
+Doors lead to : East, South, West
+You find 1 Arrow
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+You are in a Cave
+Doors lead to : East, South, West
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+
+You are in a Cave
+Doors lead to : East, South, West
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : W
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+The howl ended as it was slayed.
+
+You are in a Cave
+Doors lead to : East, South, West
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You reached the end location.
+Congratulations You Win!!
+You collected 2 Diamonds, 3 Rubies, 9 Sapphires from your adventure!!
+
+Process finished with exit code 0

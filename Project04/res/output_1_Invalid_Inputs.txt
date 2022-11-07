@@ -1,0 +1,166 @@
+"C:\Program Files\Java\jdk-11.0.11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=53679:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\patel\Desktop\Sem1\PDP\Projects\Project04\out\production\Project04 CommandLineDriver
+Welcome to the Dungeon Game
+Following dungeon is created for you:
+Rows: 6
+Columns: 8
+IsWrapped: false
+Number of Oyughs: 10
+
+Commands:
+M: Move the player in the dungeon.
+P: Pick an item in the dungeon.
+S: Shoot a crooked arrow.
+D: Description of the player.
+Q: Quit the game.
+
+
+You are in a Cave
+Doors lead to : West
+You find 1 Ruby, 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : abc
+
+Invalid command: ABC
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : carrot
+
+Item CARROT is not recognised
+What to pick : ( D | R | S | A ) : C
+
+Item C is not recognised
+What to pick : ( D | R | S | A ) : D
+
+Location does not contain treasure: Diamond
+
+You are in a Cave
+Doors lead to : West
+You find 1 Ruby, 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : A
+
+No arrows to Pick.
+
+You are in a Cave
+Doors lead to : West
+You find 1 Ruby, 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : ABC1
+
+Direction: ABC1 is not a valid direction
+Enter a direction ( N | E | S | W ) : 1
+
+Direction: 1 is not a valid direction
+Enter a direction ( N | E | S | W ) : E
+
+Direction East is not possible from here.
+
+You are in a Cave
+Doors lead to : West
+You find 1 Ruby, 5 Sapphires here.
+You smell something Less Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : M
+Enter a direction ( N | E | S | W ) : W
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : P
+What to pick : ( D | R | S | A ) : D
+
+Location does not contain treasure: Diamond
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : ANYDIRECTION
+
+Direction: ANYDIRECTION is not a valid direction
+Which direction ( N | E | S | W ) : 12345
+
+Direction: 12345 is not a valid direction
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : QWERTY
+
+QWERTY is not a valid integer.
+Enter distance (1-5) : 123ABC
+
+123ABC is not a valid integer.
+Enter distance (1-5) : -5
+
+Distance should be between 1 and 5.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 0
+
+Distance should be between 1 and 5.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 10
+
+Distance should be between 1 and 5.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+You smell something More Pungent.
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 1
+You hear a great howl in the distance.
+The howl ended as it was slayed.
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : S
+Which direction ( N | E | S | W ) : S
+Enter distance (1-5) : 1
+You shoot an arrow into the darkness.
+You are out of arrows, explore to find more
+
+You are in a Tunnel
+Doors lead to : East, South
+You find 2 Arrows
+
+Move, Pick, Shoot, Describe ( M | P | S | D ) : Q
+
+Game over.
+You quit the game. You Lose.
+
+Process finished with exit code 0
