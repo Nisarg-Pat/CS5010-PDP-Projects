@@ -1,25 +1,25 @@
 import java.util.HashMap;
 import java.util.HashSet;
 
-import dungeonmodel.Direction;
-import dungeonmodel.DungeonModel;
-import dungeonmodel.GameStatus;
-import dungeonmodel.HitStatus;
-import dungeonmodel.Item;
-import dungeonmodel.SmellLevel;
-import structureddata.LocationDescription;
-import structureddata.PlayerDescription;
-import structureddata.Position;
+import dungeonmodel4.Direction;
+import dungeonmodel4.DungeonModel;
+import dungeonmodel4.GameStatus;
+import dungeonmodel4.HitStatus;
+import dungeonmodel4.Item;
+import dungeonmodel4.SmellLevel;
+import structureddata4.LocationDescription;
+import structureddata4.PlayerDescription;
+import structureddata4.Position;
 
 /**
  * A Mock Logging DungeonModel to check if the input from controller is sent correctly to a model.
  * Only purpose is for testing
  */
-public class MockModelLogging implements DungeonModel {
+public class MockModelLogging4 implements DungeonModel {
 
   private final StringBuilder log;
 
-  public MockModelLogging(StringBuilder log) {
+  public MockModelLogging4(StringBuilder log) {
     this.log = log;
   }
 

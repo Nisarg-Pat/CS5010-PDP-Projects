@@ -4,17 +4,17 @@ import org.junit.Test;
 import java.util.Map;
 import java.util.TreeMap;
 
-import dungeonmodel.Arrow;
-import dungeonmodel.Direction;
-import dungeonmodel.DungeonModel;
-import dungeonmodel.DungeonModelImpl;
-import dungeonmodel.GameStatus;
-import dungeonmodel.HitStatus;
-import dungeonmodel.SmellLevel;
-import dungeonmodel.Treasure;
-import random.RandomImpl;
-import structureddata.LocationDescription;
-import structureddata.Position;
+import dungeonmodel4.Arrow;
+import dungeonmodel4.Direction;
+import dungeonmodel4.DungeonModel;
+import dungeonmodel4.DungeonModelImpl;
+import dungeonmodel4.GameStatus;
+import dungeonmodel4.HitStatus;
+import dungeonmodel4.SmellLevel;
+import dungeonmodel4.Treasure;
+import random4.RandomImpl;
+import structureddata4.LocationDescription;
+import structureddata4.Position;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.assertFalse;
@@ -27,7 +27,7 @@ import static org.junit.Assert.fail;
  * Tests to check the methods of {@link DungeonModel}. Covers all the different types of
  * scenarios that could occur in a dungeon.
  */
-public class DungeonModelImplTest {
+public class DungeonModelImplTest4 {
 
   private DungeonModel nonWrappingDungeon;
   private DungeonModel nonWrappingDungeonFull;

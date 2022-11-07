@@ -3,11 +3,11 @@ import org.junit.Test;
 
 import java.io.StringReader;
 
-import dungeoncontroller.DungeonController;
-import dungeoncontroller.DungeonControllerImpl;
-import dungeonmodel.DungeonModel;
-import dungeonmodel.DungeonModelImpl;
-import random.RandomImpl;
+import dungeoncontroller4.DungeonController;
+import dungeoncontroller4.DungeonControllerImpl;
+import dungeonmodel4.DungeonModel;
+import dungeonmodel4.DungeonModelImpl;
+import random4.RandomImpl;
 
 import static org.junit.Assert.assertEquals;
 import static org.junit.Assert.fail;
@@ -16,7 +16,7 @@ import static org.junit.Assert.fail;
  * Tests to check the methods of {@link DungeonController}. Covers all the different types
  * of scenarios that could occur in a dungeon controller.
  */
-public class DungeonControllerImplTest {
+public class DungeonControllerImplTest4 {
 
   private DungeonModel model;
 
@@ -57,7 +57,7 @@ public class DungeonControllerImplTest {
   @Test
   public void testFailingAppendable() {
     Readable in = new StringReader("");
-    Appendable failing = new FailingAppendable();
+    Appendable failing = new FailingAppendable4();
     DungeonController controller = new DungeonControllerImpl(in, failing, model);
     try {
       controller.start();
@@ -87,7 +87,7 @@ public class DungeonControllerImplTest {
             new StringReader("M N M E M S M W P D P R P S P A S N 1 S E 2 S S 3 S W 4 S N 5 Q");
     Appendable out = new StringBuilder();
     StringBuilder log = new StringBuilder();
-    DungeonModel loggingModel = new MockModelLogging(log);
+    DungeonModel loggingModel = new MockModelLogging4(log);
     DungeonController controller = new DungeonControllerImpl(in, out, loggingModel);
     controller.start();
     assertEquals("Move: North\n"
