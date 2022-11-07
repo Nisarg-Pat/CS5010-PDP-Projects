@@ -1,0 +1,325 @@
+"C:\Program Files\Java\jdk-11.0.11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=62184:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\patel\Desktop\Sem1\PDP\Projects\Project02\out\production\Project02 BattleDriver
+Welcome warriers to the Jumptastic Games RPG!!!
+
+
+Player-1 - This is your avatar with generated abilities:
+Name: Player-1
+Abilities: Strength:17 Constitution:17 Dexterity:16 Charisma:10
+
+Player-2 - This is your avatar with generated abilities:
+Name: Player-2
+Abilities: Strength:12 Constitution:15 Dexterity:14 Charisma:14
+
+Its time to setup Player-1
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-1 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-1
+Abilities: Strength:30 Constitution:9 Dexterity:10 Charisma:13
+Health: 62
+Weapon: Flail
+List of all the Gears:
+HeadGear (Poisoned)
+Extreme Dexterity Potion
+Extreme Strength Potion
+Hyper Charisma Potion
+Hyper Constitution Potion (Poisoned)
+Hyper Dexterity Potion (Poisoned)
+Hyper Strength Potion
+Strength Potion
+Super Constitution Potion
+Super Strength Potion
+Large CoS Belt (Poisoned)
+Medium CoD Belt
+Medium SD Mega Belt
+Small S Belt
+Small S Mega Belt
+Footwear - V (Poisoned)
+
+
+Its time to setup Player-2
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-2 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-2
+Abilities: Strength:15 Constitution:29 Dexterity:13 Charisma:23
+Health: 80
+Weapon: Axe
+List of all the Gears:
+HeadGear - III
+Charisma Potion
+Constitution Potion
+Dexterity Potion
+Extreme Constitution Potion
+Super Charisma Potion
+Super Dexterity Potion
+Medium Ch Belt
+Medium ChS Belt
+Medium S Belt
+Small Ch Belt
+Small Ch Mega Belt
+Small Co Belt
+Small D Mega Belt
+Footwear - I (Poisoned)
+
+
+Time to start the battle!!
+Player-2 dazzled its opponent to get the first turn and start the battle!!
+
+Turn - 1
+Player-2 is attacking Player-1.
+Player-1 took damage of 12 points.
+Player-1 Health: 50/62    Player-2 Health: 80/80
+
+Turn - 2
+Player-1 is attacking Player-2.
+Player-2 took damage of 5 points.
+Player-1 Health: 50/62    Player-2 Health: 75/80
+
+Turn - 3
+Player-2 is attacking Player-1.
+Player-1 took damage of 15 points.
+Player-1 Health: 35/62    Player-2 Health: 75/80
+
+Turn - 4
+Player-1 is attacking Player-2.
+Player-2 took damage of 6 points.
+Player-1 Health: 35/62    Player-2 Health: 69/80
+
+Turn - 5
+Player-2 is attacking Player-1.
+Player-1 took damage of 14 points.
+Player-1 Health: 21/62    Player-2 Health: 69/80
+
+Turn - 6
+Player-1 is attacking Player-2.
+Player-2 took damage of 5 points.
+Player-1 Health: 21/62    Player-2 Health: 64/80
+
+Turn - 7
+Player-2 is attacking Player-1.
+Player-1 took damage of 15 points.
+Player-1 Health: 6/62    Player-2 Health: 64/80
+
+Turn - 8
+Player-1 is attacking Player-2.
+Player-2 took damage of 6 points.
+Player-1 Health: 6/62    Player-2 Health: 58/80
+
+Turn - 9
+Player-2 is attacking Player-1.
+Player-1 took damage of 13 points.
+Player-1 Health: 0/62    Player-2 Health: 58/80
+
+Congratulations Player-2. You Won!!
+
+Do you want to rematch with the initial generated abilities? (Y/N): Y
+Its time to setup Player-1
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-1 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-1
+Abilities: Strength:24 Constitution:15 Dexterity:11 Charisma:12
+Health: 62
+Weapon: Broadsword
+List of all the Gears:
+HeadGear (Poisoned)
+Charisma Potion
+Extreme Constitution Potion
+Hyper Constitution Potion (Poisoned)
+Hyper Strength Potion
+Super Constitution Potion
+Super Dexterity Potion
+Super Strength Potion
+Large ChD Belt (Poisoned)
+Medium ChS Belt
+Small Ch Belt
+Small Ch Mega Belt
+Small Co Belt
+Small S Belt
+Footwear - I (Poisoned)
+
+
+Its time to setup Player-2
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-2 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-2
+Abilities: Strength:19 Constitution:22 Dexterity:9 Charisma:19
+Health: 69
+Weapon: Axe
+List of all the Gears:
+HeadGear - II
+Constitution Potion
+Dexterity Potion
+Extreme Dexterity Potion
+Extreme Strength Potion
+Hyper Charisma Potion
+Hyper Dexterity Potion (Poisoned)
+Strength Potion
+Super Charisma Potion
+Large CoS Belt (Poisoned)
+Medium CoD Belt
+Medium S Belt
+Medium SD Mega Belt
+Footwear - V (Poisoned)
+
+
+Time to start the battle!!
+Player-2 dazzled its opponent to get the first turn and start the battle!!
+
+Turn - 1
+Player-2 is attacking Player-1.
+Player-1 took damage of 12 points.
+Player-1 Health: 50/62    Player-2 Health: 69/69
+
+Turn - 2
+Player-1 is attacking Player-2.
+Player-2 took damage of 12 points.
+Player-1 Health: 50/62    Player-2 Health: 57/69
+
+Turn - 3
+Player-2 is attacking Player-1.
+Player-1 took damage of 14 points.
+Player-1 Health: 36/62    Player-2 Health: 57/69
+
+Turn - 4
+Player-1 is attacking Player-2.
+Player-2 took damage of 12 points.
+Player-1 Health: 36/62    Player-2 Health: 45/69
+
+Turn - 5
+Player-2 is attacking Player-1.
+Player-1 took damage of 13 points.
+Player-1 Health: 23/62    Player-2 Health: 45/69
+
+Turn - 6
+Player-1 is attacking Player-2.
+Player-2 took damage of 10 points.
+Player-1 Health: 23/62    Player-2 Health: 35/69
+
+Turn - 7
+Player-2 is attacking Player-1.
+Player-1 took damage of 12 points.
+Player-1 Health: 11/62    Player-2 Health: 35/69
+
+Turn - 8
+Player-1 is attacking Player-2.
+Player-2 took damage of 8 points.
+Player-1 Health: 11/62    Player-2 Health: 27/69
+
+Turn - 9
+Player-2 is attacking Player-1.
+Player-1 took damage of 11 points.
+Player-1 Health: 0/62    Player-2 Health: 27/69
+
+Congratulations Player-2. You Won!!
+
+Do you want to rematch with the initial generated abilities? (Y/N): Y
+Its time to setup Player-1
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-1 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-1
+Abilities: Strength:22 Constitution:18 Dexterity:27 Charisma:9
+Health: 76
+Weapon: Katana
+List of all the Gears:
+HeadGear (Poisoned)
+Constitution Potion
+Extreme Constitution Potion
+Strength Potion
+Super Constitution Potion
+Super Strength Potion
+Large ChD Belt (Poisoned)
+Medium SD Mega Belt
+Small Ch Mega Belt
+Small D Belt
+Small D Mega Belt
+Footwear - II
+
+
+Its time to setup Player-2
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-2 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-2
+Abilities: Strength:20 Constitution:11 Dexterity:9 Charisma:23
+Health: 63
+Weapon: Axe
+List of all the Gears:
+Charisma Potion
+Dexterity Potion
+Extreme Dexterity Potion
+Extreme Strength Potion
+Hyper Charisma Potion
+Hyper Constitution Potion (Poisoned)
+Hyper Dexterity Potion (Poisoned)
+Hyper Strength Potion
+Super Charisma Potion
+Super Dexterity Potion
+Large CoS Belt (Poisoned)
+Medium Ch Belt
+Small Ch Belt
+Small Co Belt
+Small S Belt
+Small S Mega Belt
+Footwear - IV (Poisoned)
+
+
+Time to start the battle!!
+Player-2 dazzled its opponent to get the first turn and start the battle!!
+
+Turn - 1
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 76/76    Player-2 Health: 63/63
+
+Turn - 2
+Player-1 is attacking Player-2.
+Player-2 took damage of 16 points.
+Player-1 Health: 76/76    Player-2 Health: 47/63
+
+Turn - 3
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 76/76    Player-2 Health: 47/63
+
+Turn - 4
+Player-1 is attacking Player-2.
+Player-2 took damage of 17 points.
+Player-1 Health: 76/76    Player-2 Health: 30/63
+
+Turn - 5
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 76/76    Player-2 Health: 30/63
+
+Turn - 6
+Player-1 is attacking Player-2.
+Player-2 took damage of 17 points.
+Player-1 Health: 76/76    Player-2 Health: 13/63
+
+Turn - 7
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 76/76    Player-2 Health: 13/63
+
+Turn - 8
+Player-1 is attacking Player-2.
+Player-2 took damage of 15 points.
+Player-1 Health: 76/76    Player-2 Health: 0/63
+
+Congratulations Player-1. You Won!!
+
+Do you want to rematch with the initial generated abilities? (Y/N): T
+Could not understand the option, please enter from (Y/N): Q
+Could not understand the option, please enter from (Y/N): N
+
+Process finished with exit code 0

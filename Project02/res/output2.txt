@@ -1,0 +1,838 @@
+"C:\Program Files\Java\jdk-11.0.11\bin\java.exe" "-javaagent:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\lib\idea_rt.jar=50749:C:\Program Files\JetBrains\IntelliJ IDEA 2021.2.2\bin" -Dfile.encoding=UTF-8 -classpath C:\Users\patel\Desktop\Sem1\PDP\Projects\Project02\out\production\Project02 BattleDriver
+Welcome warriers to the Jumptastic Games RPG!!!
+
+
+Player-1 - This is your avatar with generated abilities:
+Name: Player-1
+Abilities: Strength:8 Constitution:17 Dexterity:16 Charisma:9
+
+Player-2 - This is your avatar with generated abilities:
+Name: Player-2
+Abilities: Strength:11 Constitution:9 Dexterity:9 Charisma:15
+
+Its time to setup Player-1
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-1 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-1
+Abilities: Strength:12 Constitution:25 Dexterity:30 Charisma:15
+Health: 82
+Weapon: Axe
+List of all the Gears:
+HeadGear - II
+Charisma Potion (Poisoned)
+Extreme Dexterity Potion
+Hyper Charisma Potion
+Hyper Constitution Potion (Poisoned)
+Hyper Strength Potion
+Super Charisma Potion
+Super Constitution Potion
+Medium CoD Belt
+Medium S Belt (Poisoned)
+Small Ch Mega Belt
+Small Co Belt
+Small D Belt (Poisoned)
+Small S Belt
+Small S Mega Belt
+Footwear - V
+
+
+Its time to setup Player-2
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-2 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-2
+Abilities: Strength:20 Constitution:9 Dexterity:25 Charisma:11
+Health: 65
+Weapon: Two-Handed Sword
+List of all the Gears:
+HeadGear
+Constitution Potion
+Dexterity Potion
+Extreme Constitution Potion (Poisoned)
+Extreme Strength Potion
+Hyper Dexterity Potion
+Strength Potion
+Super Dexterity Potion
+Super Strength Potion
+Large ChCo Mega Belt (Poisoned)
+Medium Ch Belt (Poisoned)
+Medium SD Mega Belt
+Small Ch Belt
+Small D Mega Belt
+Footwear - I
+
+
+Time to start the battle!!
+Player-1 dazzled its opponent to get the first turn and start the battle!!
+
+Turn - 1
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 2
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 3
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 4
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 5
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 6
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 7
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 8
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 9
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 10
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 11
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 12
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 13
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 14
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 15
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 16
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 17
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 18
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 19
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 20
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 21
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 22
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 23
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 24
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 25
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 26
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 27
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 28
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 29
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 30
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 31
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 32
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 33
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 34
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 35
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 36
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 37
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 38
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 39
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 40
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 41
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 42
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 43
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 44
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 45
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 46
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 47
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 48
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 49
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 50
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 51
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 52
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 53
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 54
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 55
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 56
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 57
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 58
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 59
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 60
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 61
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 62
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 63
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 64
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 65
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 66
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 67
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 68
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 69
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 70
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 71
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 72
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 73
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 74
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 75
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 76
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 77
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 78
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 79
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 80
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 81
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 82
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 83
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 84
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 85
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 86
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 87
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 88
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 89
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 90
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 91
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 92
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 93
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 94
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 95
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 96
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 97
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 98
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 99
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+Turn - 100
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 82/82    Player-2 Health: 65/65
+
+After 100 turns both players are still standing. The game ended in draw.
+
+Do you want to rematch with the initial generated abilities? (Y/N): Y
+Its time to setup Player-1
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-1 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-1
+Abilities: Strength:10 Constitution:23 Dexterity:23 Charisma:8
+Health: 64
+Weapon: Two-Handed Sword
+List of all the Gears:
+HeadGear - IV
+Charisma Potion (Poisoned)
+Constitution Potion
+Dexterity Potion
+Extreme Constitution Potion (Poisoned)
+Hyper Charisma Potion
+Super Charisma Potion
+Super Constitution Potion
+Super Strength Potion
+Large ChCo Mega Belt (Poisoned)
+Large ChD Belt (Poisoned)
+Small Ch Belt
+Small Co Belt
+Footwear - II
+
+
+Its time to setup Player-2
+Getting some random gears to help you in battle. 25% of the available gears are poisoned.
+You would also require a weapon to help you in battle. Giving you random weapon from armory.
+Player-2 is fully equipped. Look at the details of your avatar before entering the arena:
+
+Name: Player-2
+Abilities: Strength:21 Constitution:15 Dexterity:29 Charisma:16
+Health: 81
+Weapon: Broadsword
+List of all the Gears:
+HeadGear - V
+Extreme Dexterity Potion
+Extreme Strength Potion
+Hyper Constitution Potion (Poisoned)
+Hyper Dexterity Potion
+Hyper Strength Potion
+Strength Potion
+Super Dexterity Potion
+Large CoS Belt (Poisoned)
+Medium ChS Belt
+Medium CoD Belt
+Small S Belt
+Small S Mega Belt
+Footwear - V
+
+
+Time to start the battle!!
+Player-2 dazzled its opponent to get the first turn and start the battle!!
+
+Turn - 1
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 64/64    Player-2 Health: 81/81
+
+Turn - 2
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 64/64    Player-2 Health: 81/81
+
+Turn - 3
+Player-2 is attacking Player-1.
+Player-1 took damage of 5 points.
+Player-1 Health: 59/64    Player-2 Health: 81/81
+
+Turn - 4
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 59/64    Player-2 Health: 81/81
+
+Turn - 5
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 59/64    Player-2 Health: 81/81
+
+Turn - 6
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 59/64    Player-2 Health: 81/81
+
+Turn - 7
+Player-2 is attacking Player-1.
+Player-1 took damage of 8 points.
+Player-1 Health: 51/64    Player-2 Health: 81/81
+
+Turn - 8
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 51/64    Player-2 Health: 81/81
+
+Turn - 9
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 51/64    Player-2 Health: 81/81
+
+Turn - 10
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 51/64    Player-2 Health: 81/81
+
+Turn - 11
+Player-2 is attacking Player-1.
+Player-1 took damage of 6 points.
+Player-1 Health: 45/64    Player-2 Health: 81/81
+
+Turn - 12
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 45/64    Player-2 Health: 81/81
+
+Turn - 13
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 45/64    Player-2 Health: 81/81
+
+Turn - 14
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 45/64    Player-2 Health: 81/81
+
+Turn - 15
+Player-2 is attacking Player-1.
+Player-1 took damage of 6 points.
+Player-1 Health: 39/64    Player-2 Health: 81/81
+
+Turn - 16
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 39/64    Player-2 Health: 81/81
+
+Turn - 17
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 39/64    Player-2 Health: 81/81
+
+Turn - 18
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 39/64    Player-2 Health: 81/81
+
+Turn - 19
+Player-2 is attacking Player-1.
+Player-1 took damage of 5 points.
+Player-1 Health: 34/64    Player-2 Health: 81/81
+
+Turn - 20
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 34/64    Player-2 Health: 81/81
+
+Turn - 21
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 34/64    Player-2 Health: 81/81
+
+Turn - 22
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 34/64    Player-2 Health: 81/81
+
+Turn - 23
+Player-2 is attacking Player-1.
+Player-1 took damage of 7 points.
+Player-1 Health: 27/64    Player-2 Health: 81/81
+
+Turn - 24
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 27/64    Player-2 Health: 81/81
+
+Turn - 25
+Player-2 is attacking Player-1.
+Player-1 took damage of 8 points.
+Player-1 Health: 19/64    Player-2 Health: 81/81
+
+Turn - 26
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 19/64    Player-2 Health: 81/81
+
+Turn - 27
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 19/64    Player-2 Health: 81/81
+
+Turn - 28
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 19/64    Player-2 Health: 81/81
+
+Turn - 29
+Player-2 is attacking Player-1.
+Player-1 took damage of 7 points.
+Player-1 Health: 12/64    Player-2 Health: 81/81
+
+Turn - 30
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 12/64    Player-2 Health: 81/81
+
+Turn - 31
+Player-2 is attacking Player-1.
+Player-1 took damage of 4 points.
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 32
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 33
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 34
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 35
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 36
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 37
+Player-2 is attacking Player-1.
+Player-1 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 38
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 8/64    Player-2 Health: 81/81
+
+Turn - 39
+Player-2 is attacking Player-1.
+Player-1 took damage of 4 points.
+Player-1 Health: 4/64    Player-2 Health: 81/81
+
+Turn - 40
+Player-1 is attacking Player-2.
+Player-2 avoided the attack!!
+Player-1 Health: 4/64    Player-2 Health: 81/81
+
+Turn - 41
+Player-2 is attacking Player-1.
+Player-1 took damage of 4 points.
+Player-1 Health: 0/64    Player-2 Health: 81/81
+
+Congratulations Player-2. You Won!!
+
+Do you want to rematch with the initial generated abilities? (Y/N): N
+
+Process finished with exit code 0

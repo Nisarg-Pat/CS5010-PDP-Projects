@@ -1,0 +1,83 @@
+Adding species already present:
+Species: Drill is already added
+
+Adding a different Species' Monkey :
+The species is not found in the Sanctuary. Please add the Species first.
+
+Adding a monkey with same id:
+The specified id is already present, Please select a new id.
+
+Adding a monkey with invalid arguments
+The details of monkey are not correct. Please check again
+The details of monkey are not correct. Please check again
+The details of monkey are not correct. Please check again
+
+Moving an invalid id Monkey:
+No housing for monkeyId = 15 found
+
+Moving monkey Having same initial and final housing:
+The entered initial and final housing for Monkey: 0 cannot be same
+
+Moving monkey Having invalid finalHousing id:
+No such housing for id = 20 present.
+
+Moving monkey to a filled Isolation:
+The Isolation 5 is not empty! Please add to another isolation.
+
+Getting the current List of Monkeys:
+List of Monkeys in Sanctuary:
+Name: Alfred, Housing: E_1
+Name: Bella, Housing: E_1
+Name: Carlie, Housing: E_2
+Name: Duke, Housing: E_2
+Name: Estelle, Housing: E_3
+Name: Frank, Housing: I_5
+Name: Gina, Housing: I_6
+Name: Helly, Housing: I_7
+Name: Isabell, Housing: I_8
+
+Moving different Species Monkeys into same enclosure:
+The enclosure 13 contains different species than Monkey: 0.
+
+Moving species into enclosure that does not have enough room:
+The enclosure 11 does not contain enough space to house Monkey: 2. Required space: 10 square meter. Available space: 4 square meter.
+
+Get Housing Id of a Monkey:
+Housing Id for Monkey 3 is: 12
+
+Get the list of Species in the Sanctuary:
+Species in the Sanctuary with current Housing:
+Drill:
+	Enclosures: E_1 E_2
+Guereza:
+	Isolations: I_5
+	Enclosures: E_3
+Howler:
+	Isolations: I_6
+Mangabey:
+	Isolations: I_7
+Saki:
+	Isolations: I_8
+
+Lookup for a particular species in Sanctuary:
+Housings of Guereza:
+	Isolations: I_5
+	Enclosures: E_3
+
+Lookup for a species not in the Sanctuary
+The species: Spider is not housed currently anywhere at the Sanctuary.
+
+Sign for Enclosure E_3:
+Enclosure sign:
+Name: Carlie, Sex: Male, Favourite Food: Fruits
+Name: Duke, Sex: Male, Favourite Food: Insects
+
+Sign for Empty Enclosure:
+The enclosure is empty.
+
+Get the Shopping List:
+Shopping List:
+Leaves: 1100 gms
+Eggs: 500 gms
+Fruits: 350 gms
+Insects: 1000 gms
