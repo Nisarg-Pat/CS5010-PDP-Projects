@@ -112,4 +112,4 @@ complexity.
 3) Player cannot change any gears or weapons in between the battle.
 
 ## Citations
-No citations were made for this project.
+1) Freeman E. Robson E. Sierra K. & Bates B. (2004). Head first design patterns (1st ed.). O'Reilly.
